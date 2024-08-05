@@ -1,7 +1,7 @@
 # amfoss-tasks
 Hi amFOSS Team,
 
-  I'm Jeevita, a first semester student of Amrita Vishwa Vidyapeetham, Amritapuri. I'm excited about the possibility of joining your club. I have a keen interest in writing, diving into various genres of novels, and exploring new cuisnes and cultures (one of the reasons why I decided to join a college far from my hometown). I'm enthusiastic about the chance to connect with others who share these interests and contribute to the club. I look forward to the opportunity to get involved and learn more about what you do.
+  I'm Jeevita, a first semester student of Amrita Vishwa Vidyapeetham, Amritapuri. I'm excited about the possibility of joining your club. I have a keen interest in writing, diving into various genres of novels, and exploring new cuisines and cultures (one of the reasons why I decided to join a college far from my hometown). I'm enthusiastic about the chance to connect with others who share these interests and contribute to the club. I look forward to the opportunity to get involved and learn more about what you do.
 
 **Here's why you should consider me:**
 
