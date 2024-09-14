@@ -1,0 +1,6 @@
+string = open("input.txt", "r")
+word = string.read()
+string.close()
+f = open("output.txt", "w")
+f.write(word)
+f.close()
